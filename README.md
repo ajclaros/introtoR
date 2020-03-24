@@ -22,7 +22,7 @@ Make sure you have the R language and RStudio installed
 [https://rstudio.com/products/rstudio/](https://rstudio.com/products/rstudio/)
 ```
 
-###Parts of the Presentation
+### Parts of the Presentation
 1. Quick introduction to R and programming
 2. How to hit the ground running
 
@@ -51,7 +51,7 @@ if I had two lists of data a = (1, 2, 3) and typed combine(a, "subtract") it com
 *combine(a, "concatenate") would print: "123", note this prints a string because that is how you "combine" numbers
 6. Dataframe: Think "excel sheet". It allows us to organize our data where each row is an observervation and each column dictates what type of data will be below it. Most of the data you will be working with may be in formats similar to this
 ```
-###Links
+### Links
 *[Introduction to Data Science
 Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
   This free book walks you from beginnings of R and programming and teaches you how to make graphs with data

@@ -20,7 +20,6 @@ On this page, click the green "clone or download" button and choose the "Downloa
 Make sure you have the R language and RStudio installed
 [https://cran.r-project.org/](https://cran.r-project.org/)
 [https://rstudio.com/products/rstudio/](https://rstudio.com/products/rstudio/)
-```
 
 ### Parts of the Presentation
 1. Quick introduction to R and programming
@@ -35,7 +34,8 @@ What is shown in the tutorial is a very brief overview of what you are capable w
 1. IDE: Integrated development Environment. The reason we use RStudio is because it gives us nice ways to view our data and graphs! Just downloading R would mean we're esesntially programing from a command line
 2. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. naming variable names is important because we don't want to be creating data from scratch every time we use it.
 A good naming convention is to start your variable names with a lowercase letter. It is especially important to name them something useful so that anyone else (especially you) can understand your code
-*thisisavariable
+---
+thisisavariable
 *thisIsAVariable
 *this_is_a_variable
 *ThisIsABadName (starts with a capital letter)
@@ -50,7 +50,7 @@ if I had two lists of data a = (1, 2, 3) and typed combine(a, "subtract") it com
 *combine(a, "add") would print: 6
 *combine(a, "concatenate") would print: "123", note this prints a string because that is how you "combine" numbers
 6. Dataframe: Think "excel sheet". It allows us to organize our data where each row is an observervation and each column dictates what type of data will be below it. Most of the data you will be working with may be in formats similar to this
-```
+
 ### Links
 *[Introduction to Data Science
 Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)

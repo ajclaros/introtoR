@@ -4,9 +4,9 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-*[Parts of the Presentation](#parts-of-the-presentation)
-*[Programming Primer](#pragramming-primer)
-*[Links](#Links)
+* [Parts of the Presentation](#parts-of-the-presentation)
+* [Programming Primer](#pragramming-primer)
+* [Links](#Links)
 
 
 

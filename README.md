@@ -50,7 +50,7 @@ print("this is a string")
 5. Function: A sequence of repeated steps that are stored under a name. We also store functions so that we dont need to write them over again each time. A function could be named "sum" which sums up all the numbers given to it
 6. Argument: a type of variable/input that dictates how a function works. 
 ```{r} 
-combine(x1,x2, how) #is a function named "combine" which takes in two arguments, "x" and "how"
+combine(x1, how) #is a function named "combine" which takes in two arguments, "x" and "how"
 ``` 
 if I had some data, a = (1, 2, 3) and typed combine(a, "subtract") it combines the list by subtracting
 ```{r}

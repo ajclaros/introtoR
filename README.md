@@ -43,7 +43,7 @@ $thisisnotavariable
 ```
 3. Comments: Comments are not read by the language interpreter (how the program runs) you can use them to make notes for yourself and others to help understand what is being done
 ```{r}
-#this is a comment. Everything written here will be ignored by R
+#this is a comment. Everything written on this line will be ignored by R
 ```
 4. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
 "this is a string" <- this group of characters including spaces can all be seen as a single item

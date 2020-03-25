@@ -67,7 +67,7 @@ combine(a, "concatenate") #would print: "123", note this prints a string because
 While it is important to understand programming basics including the ins and outs of the R language, that is not the purpose of this presention. It is important for us to learn how to use tools that have been built for us, and with experience perhaps build our own.
 We will more often than not be reading other's code, data and documentation of how to use their code/data in order to acomplish a task specific to us (maybe providing unique analysis or graphs to visualize). So the second part is a demonstration of how I would go about digesting and learning code that someone else wrote. For this presentation I will be using the R package [Patternize](https://github.com/StevenVB12/patternize)
 
-What is shown in the tutorial is a very brief overview capable in the R language. There are countless of free resources to really get into the depths of R and programming if one were inclined (the internet is your friend!) at the bottom of this README file are some links and websites that I've found useful in my learning. They are not necessarily exclusive to R, but are good resources to learn how to program.
+What is shown in the tutorial is a very brief overview of what is capable in the R language. There are countless of free resources to really get into the depths of R and programming if one were inclined (the internet is your friend!) at the bottom of this README file are some links and websites that I've found useful in my learning. They are not necessarily exclusive to R, but are good resources to learn how to program.
 
 
 ### Links

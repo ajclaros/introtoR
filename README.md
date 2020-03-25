@@ -28,7 +28,7 @@ Make sure you have the [R](https://cran.r-project.org/) language and
 ```{r}
 #this is a comment. Everything written on this line will be ignored by R
 ```
-3. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. naming variable names is important because we don't want to be creating data from scratch every time we use it.
+3. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. Creating variable names is important because we don't want to be creating data from scratch every time we use it.
 A good naming convention is to start your variable names with a lowercase letter. It is especially important to name them something useful so that anyone else (especially you) can understand your code
 ```{R}
 thisisavariable

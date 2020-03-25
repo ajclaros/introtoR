@@ -46,7 +46,7 @@ $thisisnotavariable #R has a specific use for for "$"
 ```{r} 
 combine(x1,x2, how) #is a function named "combine" which takes in two arguments, "x" and "how"
 ``` 
-if I had two lists of data a = (1, 2, 3) and typed combine(a, "subtract") it combines the list by subtracting
+if I had some data, a = (1, 2, 3) and typed combine(a, "subtract") it combines the list by subtracting
 ```{r}
 combine(a, "subtract")    #would print: -4
 combine(a, "add")         #would print: 6

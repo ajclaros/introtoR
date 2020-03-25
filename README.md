@@ -42,8 +42,10 @@ A good naming convention is to start your variable names with a lowercase letter
 thisisavariable
 thisIsAVariable
 this_is_a_variable
+this.is.a.variable
+variableName2
 ThisIsABadName #starts with a capital letter
-$thisisnotavariable
+$thisisnotavariable #R has a specific use for for "$"
 ```
 4. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
 "this is a string" <- this group of characters including spaces can all be seen as a single item

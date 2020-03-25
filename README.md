@@ -3,8 +3,9 @@
 
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-* [Parts of the Presentation](#parts-of-the-presentation)
 * [Programming Primer](#pragramming-primer)
+* [Parts of the Presentation](#parts-of-the-presentation)
+
 * [Links](#Links)
 
 
@@ -19,15 +20,6 @@ On this page, click the green "clone or download" button and choose the "Downloa
 Make sure you have the [R](https://cran.r-project.org/) language and 
 [RStudio](https://rstudio.com/products/rstudio/) installed
 
-
-### Parts of the Presentation
-1. Quick introduction to R and programming
-2. How to hit the ground running
-
-While it is important to understand programming basics including the ins and outs of the R language, that is not the purpose of this presention. It is important for us to learn how to use tools that have been built for us, and with experience perhaps build our own.
-We will more often than not be reading other's code, data and documentation of how to use their code/data in order to acomplish a task specific to us (maybe providing unique analysis or graphs to visualize). So the second part is a demonstration of how I would go about digesting and learning code that someone else wrote. For this presentation I will be using the R package [Patternize](https://github.com/StevenVB12/patternize)
-
-What is shown in the tutorial is a very brief overview of what you are capable with the R language. There are countless of free resources to really get into the depths of R and programming if one were inclined (the internet is your friend!) at the bottom of this README file are some links and websites that I've found useful in my learning. They are not nessicarily exclusive to R, but are good resources to learn how to program.
 
 ### Programming primer
 
@@ -59,6 +51,16 @@ combine(a, "add")         #would print: 6
 combine(a, "concatenate") #would print: "123", note this prints a string because that is how you "combine" numbers
 ```
 7. Dataframe: Think "excel sheet". It allows us to organize our data where each row is an observervation and each column dictates what type of data will be below it. Most of the data you will be working with may be in formats similar to this
+
+### Parts of the Presentation
+1. Quick introduction to R and programming
+2. How to hit the ground running
+
+While it is important to understand programming basics including the ins and outs of the R language, that is not the purpose of this presention. It is important for us to learn how to use tools that have been built for us, and with experience perhaps build our own.
+We will more often than not be reading other's code, data and documentation of how to use their code/data in order to acomplish a task specific to us (maybe providing unique analysis or graphs to visualize). So the second part is a demonstration of how I would go about digesting and learning code that someone else wrote. For this presentation I will be using the R package [Patternize](https://github.com/StevenVB12/patternize)
+
+What is shown in the tutorial is a very brief overview of what you are capable with the R language. There are countless of free resources to really get into the depths of R and programming if one were inclined (the internet is your friend!) at the bottom of this README file are some links and websites that I've found useful in my learning. They are not nessicarily exclusive to R, but are good resources to learn how to program.
+
 
 ### Links
 * [Introduction to Data Science

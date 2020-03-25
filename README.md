@@ -78,7 +78,7 @@ Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook
 * [The Coding Train](https://www.youtube.com/user/shiffman)
   * [Processing Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi)
   * [Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK)
-  The Coding train is a Youtube channel that has tons of introductory programming tutorials (introductory to advanced) that uses the languages Processing and Javascript. Daniel Shiffman is great to watch and learn from! He often streams himself trying to program and walks you through his throught process. Can't recommend him enough!
+  The Coding train is a Youtube channel that has tons of introductory programming tutorials (introductory to advanced) that uses the languages Processing and Javascript. Daniel Shiffman is great to watch and learn from! He often streams himself trying to program and walks you through his thought process. Can't recommend him enough!
 * You will at some point be getting _very_ familiar with [https://stackoverflow.com/](https://stackoverflow.com/)
 * The dataset compensation.csv was taken from [r4all.org](http://r4all.org/books/datasets/) which is used in the book [Getting Started with R: An Introduction for Biologists
 ](http://r4all.org/books/gswr2/)

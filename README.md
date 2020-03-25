@@ -25,8 +25,8 @@ Make sure you have the [R](https://cran.r-project.org/) language and
 2. How to hit the ground running
 
 While it is important to understand programming basics and the ins and outs of the R language, that is not the purpose of this presention. It is important for us to learn how to use tools that have been built for us, and with experience perhaps build our own.
-In our resarch we will more often than not be reading other's code, data and documentation of how to use their code/data in order to acomplish a task specific to us (maybe providing unique analysis or graphs to visualize)
-What is shown in the tutorial is a very brief overview of what you are capable with the R language. There are countless of free resources to really get into the depths of R and programming if one were inclined (the internet is your friend!) at the bottom of thi README file are some links and websites that I've found useful in my learning. They are not nessicarily exclusive to R, but are good resources to learn how to program.
+We will more often than not be reading other's code, data and documentation of how to use their code/data in order to acomplish a task specific to us (maybe providing unique analysis or graphs to visualize). So the second part is a demonstration of how I would go about digesting and learning code that someone else wrote. For this presentation I will be using the R package [Patternize](https://github.com/StevenVB12/patternize)
+What is shown in the tutorial is a very brief overview of what you are capable with the R language. There are countless of free resources to really get into the depths of R and programming if one were inclined (the internet is your friend!) at the bottom of this README file are some links and websites that I've found useful in my learning. They are not nessicarily exclusive to R, but are good resources to learn how to program.
 
 ### Programming primer
 

@@ -69,4 +69,4 @@ Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook
   *[Processing Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi)
   *[Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK)
   The Coding train is a Youtube channel that has tons of introductory programming tutorials (introductory to advanced) that uses the languages Processing and Javascript. Daniel Shiffman is great to watch and learn from! He often streams himself trying to program and walks you through his throught process. Can't reccomend him enough!
-* You will at some point be getting _ver_ familiar with [https://stackoverflow.com/](https://stackoverflow.com/)
+* You will at some point be getting _very_ familiar with [https://stackoverflow.com/](https://stackoverflow.com/)

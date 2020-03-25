@@ -3,10 +3,10 @@
 
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-* [Programming Primer](#pragramming-primer)
-* [Parts of the Presentation](#parts-of-the-presentation)
+  * [Programming Primer](#pragramming-primer)
+  * [Parts of the Presentation](#parts-of-the-presentation)
 
-* [Links](#Links)
+  * [Links](#Links)
 
 
 

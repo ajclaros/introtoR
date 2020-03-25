@@ -17,9 +17,9 @@ On this page, click the green "clone or download" button and choose the "Downloa
 
 ### Prerequisites
 
-Make sure you have the R language and RStudio installed
-[https://cran.r-project.org/](https://cran.r-project.org/)
-[https://rstudio.com/products/rstudio/](https://rstudio.com/products/rstudio/)
+Make sure you have the [R](https://cran.r-project.org/) language and 
+[RStudio](https://rstudio.com/products/rstudio/) installed
+
 
 ### Parts of the Presentation
 1. Quick introduction to R and programming

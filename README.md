@@ -35,24 +35,28 @@ What is shown in the tutorial is a very brief overview of what you are capable w
 2. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. naming variable names is important because we don't want to be creating data from scratch every time we use it.
 A good naming convention is to start your variable names with a lowercase letter. It is especially important to name them something useful so that anyone else (especially you) can understand your code
 ```{R}
-hisisavariable
+thisisavariable
 thisIsAVariable
 this_is_a_variable
 ThisIsABadName (starts with a capital letter)
 $thisisnotavariable
 ```
-3. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
+3. Comments: Comments are not read by the language interpreter (how the program runs) you can use them to make notes for yourself and others to help understand what is being done
+```{r}
+#this is a comment. Everything written here will be ignored by R
+```
+4. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
 "this is a string" <- this group of characters including spaces can all be seen as a single item
-4. Function: A sequence of repeated steps that are stored under a name. We also store functions so that we dont need to write them over again each time. A function could be named "sum" which sums up all the numbers given to it
-5. Argument: a type of variable/input that dictates how a function works.
+5. Function: A sequence of repeated steps that are stored under a name. We also store functions so that we dont need to write them over again each time. A function could be named "sum" which sums up all the numbers given to it
+6. Argument: a type of variable/input that dictates how a function works.
 *combine(x1,x2, how) is a function names combined which takes in two arguments, "x" and "how"
 if I had two lists of data a = (1, 2, 3) and typed combine(a, "subtract") it combines the list by subtracting
 ```{r}
-*combine(a, "subtract")    #would print: -4
-*combine(a, "add")         #would print: 6
-*combine(a, "concatenate") #would print: "123", note this prints a string because that is how you "combine" numbers
+combine(a, "subtract")    #would print: -4
+combine(a, "add")         #would print: 6
+combine(a, "concatenate") #would print: "123", note this prints a string because that is how you "combine" numbers
 ```
-6. Dataframe: Think "excel sheet". It allows us to organize our data where each row is an observervation and each column dictates what type of data will be below it. Most of the data you will be working with may be in formats similar to this
+7. Dataframe: Think "excel sheet". It allows us to organize our data where each row is an observervation and each column dictates what type of data will be below it. Most of the data you will be working with may be in formats similar to this
 
 ### Links
 * [Introduction to Data Science

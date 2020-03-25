@@ -32,18 +32,18 @@ What is shown in the tutorial is a very brief overview of what you are capable w
 ### Programming primer
 
 1. IDE: Integrated development Environment. The reason we use RStudio is because it gives us nice ways to view our data and graphs! Just downloading R would mean we're esesntially programing from a command line
-2. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. naming variable names is important because we don't want to be creating data from scratch every time we use it.
+2. Comments: Comments are not read by the language interpreter (how the program runs) you can use them to make notes for yourself and others to help understand what is being done
+```{r}
+#this is a comment. Everything written on this line will be ignored by R
+```
+3. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. naming variable names is important because we don't want to be creating data from scratch every time we use it.
 A good naming convention is to start your variable names with a lowercase letter. It is especially important to name them something useful so that anyone else (especially you) can understand your code
 ```{R}
 thisisavariable
 thisIsAVariable
 this_is_a_variable
-ThisIsABadName (starts with a capital letter)
+ThisIsABadName #starts with a capital letter
 $thisisnotavariable
-```
-3. Comments: Comments are not read by the language interpreter (how the program runs) you can use them to make notes for yourself and others to help understand what is being done
-```{r}
-#this is a comment. Everything written on this line will be ignored by R
 ```
 4. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
 "this is a string" <- this group of characters including spaces can all be seen as a single item

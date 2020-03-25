@@ -28,7 +28,8 @@ Make sure you have the [R](https://cran.r-project.org/) language and
 ```{r}
 #this is a comment. Everything written on this line will be ignored by R
 ```
-3. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. Creating variable names is important because we don't want to be creating data from scratch every time we use it.
+3. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. Creating variable names is important because we don't want to be creating data from scratch every time we use it. This of it like shoving data into a box and then labeling it.
+
 A good naming convention is to start your variable names with a lowercase letter. It is especially important to name them something useful so that anyone else (especially you) can understand your code
 ```{R}
 thisisavariable
@@ -40,7 +41,12 @@ ThisIsABadName #starts with a capital letter
 $thisisnotavariable #R has a specific use for for "$"
 ```
 4. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
-"this is a string" <- this group of characters including spaces can all be seen as a single item
+```{r}
+"this is a string" # this group of characters including spaces can all be seen as a single item
+sentence = "this is a string." #assign "this is a string" to "sentence" 
+print(sentence) 
+print("this is a string")
+```
 5. Function: A sequence of repeated steps that are stored under a name. We also store functions so that we dont need to write them over again each time. A function could be named "sum" which sums up all the numbers given to it
 6. Argument: a type of variable/input that dictates how a function works. 
 ```{r} 

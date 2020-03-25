@@ -24,7 +24,7 @@ Make sure you have the [R](https://cran.r-project.org/) language and
 ### Programming primer
 
 1. IDE: Integrated development Environment. The reason we use RStudio is because it gives us nice ways to view our data and graphs! Just downloading R would mean we're esesntially programing from a command line
-2. Comments: Comments are not read by the language interpreter (what runs your progeam/script) you can use them to make notes for yourself and others to help understand what is being done
+2. Comments: Comments are not read by the language interpreter (what runs your program/script) you can use them to make notes for yourself and others to help understand what is being done
 ```{r}
 #this is a comment. Everything written on this line will be ignored by R
 ```

@@ -42,8 +42,10 @@ $thisisnotavariable #R has a specific use for for "$"
 4. String: A type of data, Think "text". A series of characters that can be put together between qotation marks.
 "this is a string" <- this group of characters including spaces can all be seen as a single item
 5. Function: A sequence of repeated steps that are stored under a name. We also store functions so that we dont need to write them over again each time. A function could be named "sum" which sums up all the numbers given to it
-6. Argument: a type of variable/input that dictates how a function works.
-*combine(x1,x2, how) is a function names combined which takes in two arguments, "x" and "how"
+6. Argument: a type of variable/input that dictates how a function works. 
+```{r} 
+combine(x1,x2, how) #is a function named "combine" which takes in two arguments, "x" and "how"
+``` 
 if I had two lists of data a = (1, 2, 3) and typed combine(a, "subtract") it combines the list by subtracting
 ```{r}
 combine(a, "subtract")    #would print: -4
@@ -68,8 +70,8 @@ Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook
   This free book walks you from beginnings of R and programming and teaches you how to make graphs with data
 
 * [The Coding Train](https://www.youtube.com/user/shiffman)
-  *[Processing Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi)
-  *[Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK)
+  * [Processing Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi)
+  * [Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK)
   The Coding train is a Youtube channel that has tons of introductory programming tutorials (introductory to advanced) that uses the languages Processing and Javascript. Daniel Shiffman is great to watch and learn from! He often streams himself trying to program and walks you through his throught process. Can't recommend him enough!
 * You will at some point be getting _very_ familiar with [https://stackoverflow.com/](https://stackoverflow.com/)
 * The dataset compensation.csv was taken from [r4all.org](http://r4all.org/books/datasets/) which is used in the book [Getting Started with R: An Introduction for Biologists

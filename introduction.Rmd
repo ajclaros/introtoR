@@ -11,8 +11,7 @@ all regular operations apply
 "=" is meant as assignment, meaning everything on the righthand side is named whatever is on the left side. Whenver you call that name, you are using whatever was originally on the righthand side
 
 ```{r}
-a = (1+2)/(3^2 * 5)
-x = c(1,2,3,4,5,6,7,8)
+(1+2)/(3^2 * 5)
 ```
 
 Programming languages allow the creation of functions which allow the use of repeating a sequence of steps multiple times
@@ -34,6 +33,7 @@ print("b")
 b
 
 print("a+b")
+
 c = a_plus_b(a,b)
 print(c)
 
@@ -67,22 +67,18 @@ x=c(1,2,3)
 combine(x, how= "add")
 combine(x, how="subtract")
 combine(x, how="concatenate")
-
 ```
-```
-
-
 ```{r}
 compensation = read.csv("compensation.csv")
 compensation
-compensation$Grazing
+compensation$Fruit
 ```
 
 
 
 We can plot this data using ggplot
 ```{r}
-install.packages("ggplot2")
+#install.packages("ggplot2")
 library(ggplot2)
 ?ggplot
 ?geom_point
@@ -97,19 +93,7 @@ ggplot(data = compensation)+
 
 Statistical functions 
 ```{r}
-t.test(Fruit ~Grazing ,compensation)
-```
-
-```{r}
-data(iris)
-
-head(iris)
-iris
-setosa = iris[which(iris$Species=="setosa"),]
-setosa
-
-ggplot(data=setosa, aes(x= Sepal.Length, y= Sepal.Width))+
-  geom_point()
+t.test(Fruit ~ Grazing,compensation)
 ```
 
 

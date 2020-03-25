@@ -26,7 +26,7 @@ Make sure you have the [R](https://cran.r-project.org/) language and
 1. IDE: Integrated development Environment. The reason we use RStudio is because it gives us nice ways to view our data and graphs! Just downloading R would mean we're esesntially programing from a command line
 2. Comments: Comments are not read by the language interpreter (what runs your program/script) you can use them to make notes for yourself and others to help understand what is being done
 ```{r}
-#this is a comment. Everything written on this line will be ignored by R
+#this is a comment. Everything after the "#" will be ignored by R
 ```
 3. Variable: How we name and store data when we program. By invoking x=3, everytime we use the name "x" we will be working with the number 3. Creating variable names is important because we don't want to be creating data from scratch every time we use it. This of it like shoving data into a box and then labeling it.
 
